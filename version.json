@@ -1,0 +1,5 @@
+{
+"version": 2.0,
+"url": "",
+"changes": "\u2022 Added district wise data.\n\u2022 Sorted global data according to cases.\n\u2022 Added total cases screen for global data.\n\u2022 Fix navbar colour.\n\u2022 Added update notifier for new updates.\n\u2022 Added changelog alert dialog when app is opened first time."
+}
